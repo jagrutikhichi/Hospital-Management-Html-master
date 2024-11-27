@@ -1,8 +1,8 @@
 <?php
 if( isset($_POST['name']) )
 {
-	$to = 'vokyvon@gmail.com'; // Replace with your email
-	$subject = 'Order from website'; // Replace with your subject if you need
+	$to = 'jagrutikhichi123@gmail.com'; 
+	$subject = 'JKL Health Service Website'; 
 	$message = 'Name: ' . $_POST['name'] . "\n" .
 						 'Company: ' . $_POST['company']. "\n" .
 						 'E-mail: ' . $_POST['email']. "\n" .
